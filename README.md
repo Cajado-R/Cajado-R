@@ -12,6 +12,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cajado-R&layout=compact&langs_count=7&theme=highcontrast"/>                   
 </div>
 <div style="display: inline_block"><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 </div>
