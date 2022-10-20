@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando no meu portfólio.
-- 🌱 Estudando PHP e Java.
+- 🌱 Estudando PHP, Java e Cloud Computing.
 - 👯 Estou aberto a colabs. 
 - 📫 Contate-me em: claudiocajado@outlook.com.br
 ##
