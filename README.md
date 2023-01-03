@@ -1,10 +1,10 @@
 ### Olá! 
 
 
-- 🔭 Estou trabalhando no meu portfólio.
-- 🌱 Estudando PHP, Java e Cloud Computing.
-- 👯 Estou aberto a colabs. 
-- 📫 Contate-me em: claudiocajado@outlook.com.br
+- 🔭 Working on my portfolio
+- 🌱 Studying data analytics (GOOGLE), JS, and  PHP. 
+- 👯 Teamwork is  bester. 
+- 📫 Contact-me: claudiocajado@outlook.com.br
 ##
 <div align="center">
   <a href="https://github.com/Cajado-R">
