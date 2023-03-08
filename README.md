@@ -4,7 +4,7 @@ Olá!
 
 
 - 🔭 Working on my portfolio
-- 🌱 Studying data analytics (GOOGLE), and  PHP POO. 
+- 🌱 Studying data analytics (GOOGLE), Java - Spring Boot, and  PHP POO. 
 - 👯 Teamwork is  better. 
 - 📫 Contact-me: claudiocajado@outlook.com.br
 ##
