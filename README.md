@@ -21,11 +21,10 @@ Olá!
   <img align="left" alt="Cajado-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="left" alt="Cajado-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="left" alt="Cajado-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left" alt="Cajado-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Cajado-JAVA" height="30" width="40" src="https://user-images.githubusercontent.com/101744023/225148115-e70cd3ba-f19f-4f5c-bb22-80d52e7fdadd.png">
   <!-- Tudo que não é linguagem. -->
   <img align="right" alt="Cajado-GIMP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
   <img align="right" alt="Cajado-PHOTOSHOP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="right" alt="Cajado-VSCODE" height="30" width="40" src="https://icons8.com/icon/13679/java">
 </div> <br>
   
   ##  
