@@ -1,10 +1,5 @@
-### 
-Olá! 
-###
 
 
-- 🔭 Working on my portfolio.
-- 🌱 Studying data analytics.
 - 👯 Teamwork is  better. 
 - 📫 Contact-me: claudiocajado@outlook.com.br
 ##
